@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProxoDroid</string>
+
+
+    <string name="title_section1">Database</string>
+    <string name="title_section2">Estimote</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="connectToDB">Connect to CouchDB</string>
+    <string name="disconnectToDB">Disconnect from CouchDB</string>
+    <string name="testMessage">This is a test message</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_connected">Connected</string>
+    <string name="action_post">Post</string>
+    <string name="action_estimotes_found">Estimotes Found</string>
+</resources>
