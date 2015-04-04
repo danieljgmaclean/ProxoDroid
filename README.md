@@ -14,4 +14,4 @@ It currently doesn't do much. It will attempt to connect to a local CouchDB assu
 
 ## RubySpeaker
 
-A seperate application to react to events published to CouchDB. Check it out here.
+A seperate application to react to events published to CouchDB. Check it out [here](https://github.com/danieljgmaclean/RubySpeaker).
