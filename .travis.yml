@@ -2,4 +2,4 @@ language: android
 android:
   components:
     - extra-android-m2repository
-script: "./gradlew build"
+script: "./gradle build"
