@@ -1,4 +1,4 @@
 language: android
 android:
   components:
-    - appcompat-v7
+    - extra-android-m2repository
