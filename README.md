@@ -15,3 +15,10 @@ It currently doesn't do much. It will attempt to connect to a local CouchDB assu
 ## RubySpeaker
 
 A seperate application to react to events published to CouchDB. Check it out [here](https://github.com/danieljgmaclean/RubySpeaker).
+
+## Prerequisites
+
+You must do the following to use the application
+- Own at least one Estimote Beacon or be able to create a virtual beacon
+- Have CouchDB installed on a locally or remotely accessible server
+- Be willing to mess around with some code because this app is still in early development
